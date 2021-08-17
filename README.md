@@ -1,6 +1,5 @@
-# 🚀 Welcome to your new awesome project!
-
-This project has been created using **webpack scaffold**, you can now run
+# 🚀 Dfinity IDE
+ChainIDE has been supporting Dfinity blockchain by the plugin format , you can now run this project by
 
 ```
 npm run compile
